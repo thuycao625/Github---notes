@@ -250,5 +250,6 @@ vào commit hiện tại có thể thay đổi massage ]
 
 -- git fetch remote-name pull/id-PR/head:branch-name-on-local [ fetch from pull request ]
 
+-- git revert --abort [revert last change]
 
 
